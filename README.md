@@ -3,5 +3,6 @@
 현재 저의 백준 티어는 실버 5 입니다.
 
 - 2023-02-23 실버 4 달성!
+- 2023-03-06 실버 3 달성!
 
-![백준 실버 4](https://user-images.githubusercontent.com/60602671/220873327-b74429c1-2c6e-4ff7-be11-9c2dff640a30.png)
+![백준2](https://user-images.githubusercontent.com/60602671/222994038-b0b25ee7-1f30-4104-b7e9-257fc62fddee.png)
